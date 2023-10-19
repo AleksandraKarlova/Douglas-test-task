@@ -1,0 +1,12 @@
+{
+  "validUser": {
+    "name": "Aleksandra Karlova",
+    "email": "kar.love.art@gmail.com",
+    "password": "Douglas123",
+    "wrongPassword": "123456"
+  },
+  "invalidUser": {
+    "email": "test@gmail.com",
+    "password": "123456"
+  }
+}
